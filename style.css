@@ -11,7 +11,7 @@
     --fs-large : 2.5rem;
 }
 body{
-    background: url("image/weather3.jpeg");
+    background: url("image/Background-clearSky.jpg");
     width: 100vw;
     height: 100vh;
     background-size: cover;
